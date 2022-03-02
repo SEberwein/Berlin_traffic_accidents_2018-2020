@@ -2,3 +2,8 @@
 data/AfSBBB_BE_LOR_Strasse_Strassenverkehrsunfaelle_2020_Datensatz.csv
 data/AfSBBB_BE_LOR_Strasse_Strassenverkehrsunfaelle_2018_Datensatz.csv
 data/AfSBBB_BE_LOR_Strasse_Strassenverkehrsunfaelle_2019_Datensatz.csv
+data/admin4_berlin_epsg3857.svg
+data/gis_osm_traffic_free_1.shp
+data/zuordnung_plz_ort.csv
+data/plz_einwohner.csv
+data/plz-5stellig.shp
