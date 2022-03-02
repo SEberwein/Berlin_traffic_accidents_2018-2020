@@ -2,7 +2,7 @@
 ### Final Project @ IronHack (Data Analytics Bootcamp, Jan-Mar 2022)
 ### by Selena Eberwein & Roman Kaltschew
 
-Using the datasets provided by [BerlinOpenData](https://daten.berlin.de/kategorie/verkehr) we take a look at the accidents involving physical injuries (type of accident, kind of injury, road/lighting condition), build different models to show, what are the main factors and use the geographical data provided to highlight areas with a high number of accidents.<br>
+Using the datasets provided by [BerlinOpenData](https://daten.berlin.de/kategorie/verkehr) we take a look at the accidents involving physical injuries (type of accident, kind of injury, road/lighting condition), build different models to show the main factors for them and use the geographical data provided to highlight areas with a high number of accidents.<br>
 We also include the accident statitistics provided by [Polizei Berlin](https://www.berlin.de/polizei/aufgaben/verkehrssicherheit/verkehrsunfallstatistik/) to get a general overview on all accidents (including only damage to property).
 
 #### STEPS (timeframe)
