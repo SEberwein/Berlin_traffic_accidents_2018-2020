@@ -1,10 +1,6 @@
 import bs4
 import requests
-import pandas as pd
-import random
-import os
 import datetime as dt
-import time
 import codecs
 
 
