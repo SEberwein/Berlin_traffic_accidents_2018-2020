@@ -124,3 +124,6 @@ manual/201602.csv
 manual/201808.csv
 manual/SB_H01-01-00_2018m08_BE.pdf
 manual/SB_H01-01-00_2016m02_BE.pdf
+data/weather_data_tempelhof.csv
+data/weather_data_marzahn.csv
+data/weather_data_dahlem.csv
