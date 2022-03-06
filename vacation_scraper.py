@@ -64,3 +64,5 @@ if __name__ == "__main__":
         school_vac_lst = f.read().splitlines()
     with open("./data/bank_holidays_berlin.txt") as f:
         bank_holid_lst = f.read().splitlines()
+    print(school_vac_lst)
+    print(bank_holid_lst)
