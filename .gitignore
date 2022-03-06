@@ -128,3 +128,4 @@ data/weather_data_tempelhof.csv
 data/weather_data_marzahn.csv
 data/weather_data_dahlem.csv
 accident_records_by_day.csv
+data/all_acc_summary_monthly.csv
