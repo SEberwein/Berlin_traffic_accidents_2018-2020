@@ -14,11 +14,12 @@ def weather_scraper(save_to_file: [bool] = False, fp: [str] = None):
         for this_month in range(1,13):
             last_day_dt = str(last_day_of_month(dt.date(this_year,this_month,1))).split("-")
             last_day = f"{last_day_dt[2]}.{last_day_dt[1]}.{last_day_dt[0]}"
+            # CHANGE THE ID in the URL according to yout choice of weather station
             # id=23 - Berlin Tempelhof
             # id=19 - Berlin Alexanderplatz
             # id=G005 - Berlin Marzahn
-            # id=20 - Berlin Dahlem
-            url = f"https://wetterkontor.de/de/wetter/deutschland/rueckblick.asp?id=G005&" \
+            # id=20 - Berlin Dahlem                             ... here ...   ---⤵
+            url = f"https://wetterkontor.de/de/wetter/deutschland/rueckblick.asp?id=23&" \
                   f"datum0=01.{this_month}.{this_year}&datum1={last_day}&jr=2022&mo=3&datum=04.03.2022&t=4&part=0"
             response = requests.get(url=url)
             response.raise_for_status()
@@ -42,5 +43,5 @@ def weather_scraper(save_to_file: [bool] = False, fp: [str] = None):
 
 
 if __name__ == "__main__":
-    weather_scraper(save_to_file=True, fp="./data/weather_data_marzahn.csv")
+    weather_scraper(save_to_file=True, fp="./data/weather_data_tempelhof.csv")
 
