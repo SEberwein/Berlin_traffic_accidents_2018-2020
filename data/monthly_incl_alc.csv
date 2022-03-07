@@ -1,4 +1,4 @@
-month,ist_rad,ist_pkw,ist_fuss,ist_krad,ist_gkfz,ist_sonstige,slightly_injured,seriously_injured,killed,total_acc_w_injury,alcohol_related,daylight,dark,dusk,dry,wet,icy,month_num
+month,bicycle,car,pedestrian,motorbike,truck,other,slightly_injured,seriously_injured,killed,total_acc_w_injury,alcohol_related,daylight,dark,dusk,dry,wet,icy,month_num
 2018_01,245,758,247,50,28,129,720,161,3,884,89,388,401,95,358,509,17,201801
 2018_02,201,640,153,39,30,101,608,119,3,730,100,447,235,48,602,107,21,201802
 2018_03,222,700,154,65,27,110,691,109,2,802,108,566,190,46,516,265,21,201803
