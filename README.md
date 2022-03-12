@@ -10,5 +10,5 @@ As we can see the amount of accidents by cyclists increased during the lockdowns
 + [X] Data collection, cleaning and combination (up to 3th of March)
 + [X] Basic EDA to gain the first insights (up to the 4th of March)
 + [X] Building different models and choosing the appropriate one(s) (up to the 7th of March)
-+ [ ] Visualizing our findings and create a narrative (up to the 9th of March)
-+ [ ] Creating the presentation (up to the 11th of March)
++ [X] Visualizing our findings and create a narrative (up to the 9th of March)
++ [X] Creating the presentation (up to the 11th of March)
