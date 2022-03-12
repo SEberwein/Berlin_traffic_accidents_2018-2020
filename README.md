@@ -13,5 +13,3 @@ As we can see the amount of accidents by cyclists increased during the lockdowns
 + [X] Visualizing our findings and create a narrative (up to the 9th of March)
 + [X] Creating the presentation (up to the 11th of March)
 
-[Uploading Traffic accident analysis.png…]()
-
